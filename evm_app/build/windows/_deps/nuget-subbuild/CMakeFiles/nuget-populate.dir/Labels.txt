@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/d08914103b46f6edc6a2c6730ad0c044/nuget-populate.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/ff42a8c1a47efe5728346ac0221add9f/nuget-populate-complete.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-build.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-configure.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-copyfile.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-download.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-install.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-mkdir.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-patch.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-test.rule
+C:/Users/ffarh/EVM/evm_app/build/windows/_deps/nuget-subbuild/CMakeFiles/bbab580c4ea7d7ebe786a1e65f2f3e8a/nuget-populate-update.rule

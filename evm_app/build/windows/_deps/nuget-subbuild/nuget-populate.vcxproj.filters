@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\bbab580c4ea7d7ebe786a1e65f2f3e8a\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\ff42a8c1a47efe5728346ac0221add9f\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\d08914103b46f6edc6a2c6730ad0c044\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ffarh\EVM\evm_app\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5971A998-EA77-3596-8D64-CE32D5B33A1E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
